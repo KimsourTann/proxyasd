@@ -1,4 +1,3 @@
-# api/proxy.py
 import requests
 
 def handler(request):
